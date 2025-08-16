@@ -10,6 +10,11 @@
   	</p>
 	<br/>
 </div>
+
+<div align="center">
+	<img width="386" height="355" alt="Screenshot 2025-08-16 at 00 46 19" src="https://github.com/user-attachments/assets/214b02af-6edf-4f8d-ae51-54c325b2542d" />
+</div>
+
 <br/>
 
 # :question: About This Project
